@@ -1,0 +1,2 @@
+IDP-Z3 is a knowledge representation and reasoning system based on the representation language FO(·). It is an open-source project maintained and developed by a passionate team at the KU Leuven University.
+This is an exhibition of my coursework from knowledge representation class.
